@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book id="1">
+        <author>Ende</author>
+        <description>Momo lives in an amphitheatre.</description>
+        <genre>Fantasy</genre>
+        <price>999</price>
+        <publish_date>1973</publish_date>
+        <title>Momo</title>
+    </book>
+</catalog>
