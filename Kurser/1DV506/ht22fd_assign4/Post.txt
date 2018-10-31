@@ -1,0 +1,8 @@
+23642;Höllviken
+35243;Växjö
+51000;Jönköping
+72211;Västerås
+75242;Uppsala
+90325;Umeå
+96133;Boden
+35248;Nydalavägen
