@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bookTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-06-26T09:49:45" hostname="vagrant-ubuntu-trusty-64" time="0.004">
+  <properties/>
+  <testcase name="testBook" classname="bookTest" time="0.002"/>
+  <testcase name="ToStringTest" classname="bookTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
