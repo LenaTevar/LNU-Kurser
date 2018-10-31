@@ -20,4 +20,4 @@
 |sp1|	[1DV525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Introduction to Web Programming	|[1DV516](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Algorithms and Advanced Data Structures|
 |sp2|	[1DV523](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Server-based Web Programming	|[2DV513](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Database Theory|
 |sp3|	[2DV50E](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Degree Project at Bachelor Level	| [2DV604](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Software Architectures
-|sp4|	elective course
+|sp4|	| elective course|
