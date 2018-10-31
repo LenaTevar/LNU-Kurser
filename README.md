@@ -12,7 +12,7 @@
 |sp1|[1DV607](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Object Oriented Analysis and Design|[1DT301](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)  Computer Technology 1|
 |sp2|	[2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) Software Testing	|[1DV512](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Operating Systems|
 |sp3|	[2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Software Engineering - Design	|[1DV701]() Computer Networks - an introduction|
-|sp4|	[1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) Language and Logic|
+|sp4|	|[1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) Language and Logic|
 
 
 |Year 3|	 | | 
