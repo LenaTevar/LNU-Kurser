@@ -1,5 +1,7 @@
 # LNU-Kurser
+All the courses I finished at Software Technologies in LinneUniversitetet. 
 
+Please be careful, use this to get ideas but not copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
 | Year 1        | | | 
 | ------------- |-------------|----|
 |sp1|[1MA441](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Basic Mathematics :anger:|[1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) English|
