@@ -1,7 +1,7 @@
 # LNU-Kurser
 All the courses I finished at Software Technologies in LinneUniversitetet. 
 
-Please be careful, use this to get ideas but not copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
+Please be careful, use this to get ideas but don't copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
 
 
 | Year 1        | | | 
