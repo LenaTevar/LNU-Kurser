@@ -1,0 +1,16 @@
+Clear["`*"];
+(*Initial Values*)
+iv1 = a[1] == 1;
+iv2 = a[2] == 2;
+(*Our Recurrent relation is defined below*)
+rr = a[n] == a[n - 1] + a[n - 2];
+
+sol = RSolve[{rr, iv1, iv2}, a[n], n] // Simplify
+
+a[n_] = a[n] /. sol[[1]];
+"Solution for a_20"  
+Print[a[20]]
+"Solution for the DiscretePlot"
+
+
+DiscretePlot[a[n], {n, 10}]
