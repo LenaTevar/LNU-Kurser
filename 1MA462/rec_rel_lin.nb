@@ -1,0 +1,45 @@
+Clear["`*"];
+(*This command on line 1 is very useful. Clears all symbols from \
+previous runs.*)
+iv1 = a[1] == 1;
+
+(* iv1 and iv2 are the initial values*)
+(* rr is the recurrence relation (RR). Note \[Equal]  *)
+rr = a[n + 1] == 3*a[n] + 2^n;
+(* In this example the RR is second order and non-homogeneous*)
+sol = RSolve[{rr, iv1}, a[n], n] // Simplify
+(* RSolve solves the RR. For differential equations you call for \
+DSolve.
+Do you wonder what // and Simplify means? Select them with mouse and \
+click on "Find Selected Function" in Help *)
+a[n_] = a[n] /. sol[[1]];
+(* The last line looks strange. /. means Replace All. The function \
+a[n] is defined from the solution sol in
+this way. sol is a list and [[1]] picks out the first element in this \
+list (there is only one element here).*)
+(* If you want to run the program then press Shift + Enter at the end \
+of the last line *)
+Print[a[2], "   ", a[3], "   ", a[4], "   ", a[5]]
+Print[a[50]]
+(* The program use the Fibonacci and Lucas numbers to express the \
+solution *)
+
+
+Clear["`*"];
+iv2 = a[0] ==  1;
+iv3 = b[0] ==  1;
+rr2 = a[n + 1] ==  3*a[n] + b[n];
+rr3 = b[n + 1] ==  -a[n] + 2*b[n];
+
+
+sol2 = RSolve[{rr2, rr3, iv2, iv3}, {a[n], b[n]}, n]
+a[n_] = a[n] /. sol2[[1]];
+b[n_] = b[n] /. sol2[[1]];
+(* The last line looks strange. /. means Replace All. The function \
+a[n] is defined from the solution sol in
+this way. sol is a list and [[1]] picks out the first element in this \
+list (there is only one element here).*)
+(* If you want to run the program then press Shift + Enter at the end \
+of the last line *)
+Print[a[2], "   ", a[3], "   ", a[4], "   ", a[5]]
+Print[a[50]]

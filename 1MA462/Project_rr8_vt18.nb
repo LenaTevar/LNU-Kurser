@@ -1,0 +1,57 @@
+
+(* Exercise 3
+rule: 232 
+111 110 101 100 011 010 001 000
+ 1   1   1   0   1   0   0   0  = 232
+If run it randomly we see that cell with >1 white neighbour, die. Otherwise they will pack together and keep surviving in black. 
+We didnt need to modify the program, at all. If they pack together they look like rule 204 (1 1 0 0 1 1 0 0). 
+The major difference is that 232 doesnt want to be alone and moves to the closer neighbours if the distance is 
+1 white or dies if bigger than 1 white. 
+
+*)
+Clear["`*"]
+seed = {0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0,
+    1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 
+   1, 0, 1, 0, 1, 0, 1, 0, 0};
+rule = 4276676736;
+BaseForm[4276676736, 2]
+ArrayPlot[CellularAutomaton[232, RandomInteger[1, 100], 10]]
+ArrayPlot[CellularAutomaton[232, seed, 50]]
+ArrayPlot[CellularAutomaton[{rule, 2, 2}, RandomInteger[1, 100], 40]]
+ArrayPlot[CellularAutomaton[{rule, 2, 2}, seed, 40]]
+RulePlot[CellularAutomaton[{rule, 2, 2}]]
+
+RulePlot[CellularAutomaton[{232, 2, 2}]]
+
+
+
+
+
+
+
+
+
+
+
+
+(*Exercise 4
+When you run 3 black cells in a row, a blinker pattern appears and \
+change over two ticks. It repeats its pattern infinitely. 
+When adding 4 black cells in a row, a static pattern appears, called \
+"Beehive". The beehive will stay in one state forever. 
+ When adding 5 black cells in a row, four blinker appear and run \
+infinitely. 
+Six black cells in a row will die after 12 steps. 
+
+*)
+gameOfLife = {224, {2, {{2, 2, 2}, {2, 1, 2}, {2, 2, 2}}}, {1, 1}};
+board = RandomInteger[1, {50, 50}];
+board2 = Table[0, {50}, {50}];
+board2 [[10, 25]] = 1;
+board2 [[11, 25]] = 1;
+board2 [[12, 25]] = 1;
+board2 [[13, 25]] = 1;
+board2 [[14, 25]] = 1;
+
+Dynamic[ArrayPlot[
+  board2 = Last[CellularAutomaton[gameOfLife, board2, {{0, 1}}]]]]

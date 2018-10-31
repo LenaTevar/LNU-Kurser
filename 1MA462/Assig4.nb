@@ -1,0 +1,47 @@
+gameOfLife = {224, {2, {{2, 2, 2}, {2, 1, 2}, {2, 2, 2}}}, {1, 1}};
+
+(*Game of Life - 3 black cells in a row*)
+"Game of Life: 3 Cells"
+board3 = Table[0, {50}, {50}];
+board3[[10, 25]] = 1;
+board3[[11, 25]] = 1;
+board3[[12, 25]] = 1;
+
+Dynamic[ArrayPlot[
+  board3 = Last[CellularAutomaton[gameOfLife, board3, {{0, 1}}]]]]
+
+(*Game of Life - 4 black cells in a row*)
+"Game of Life: 4 Cells"
+board4 = Table[0, {50}, {50}];
+board4[[10, 25]] = 1;
+board4[[11, 25]] = 1;
+board4[[12, 25]] = 1;
+board4[[13, 25]] = 1;
+
+Dynamic[ArrayPlot[
+  board4 = Last[CellularAutomaton[gameOfLife, board4, {{0, 1}}]]]]
+
+(*Game of Life - 5 black cells in a row*)
+"Game of Life: 5 Cells"
+board5 = Table[0, {50}, {50}];
+board5[[10, 25]] = 1;
+board5[[11, 25]] = 1;
+board5[[12, 25]] = 1;
+board5[[13, 25]] = 1;
+board5[[14, 25]] = 1;
+
+Dynamic[ArrayPlot[
+  board5 = Last[CellularAutomaton[gameOfLife, board5, {{0, 1}}]]]]
+
+
+(*Game of Life - 6 black cells in a row*)
+"Game of Life: 6 Cells"
+board6 = Table[0, {50}, {50}];
+board6[[10, 25]] = 1;
+board6[[11, 25]] = 1;
+board6[[12, 25]] = 1;
+board6[[13, 25]] = 1;
+board6[[14, 25]] = 1;
+board6[[15, 25]] = 1;
+Dynamic[ArrayPlot[
+  board6 = Last[CellularAutomaton[gameOfLife, board6, {{0, 1}}]]]]

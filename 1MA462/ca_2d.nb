@@ -1,0 +1,43 @@
+Clear["`*"]
+(* After 1D CA we turn to two dimensional CA. Still each cell can \
+have two states. BUT
+there are now 8 neighbours. 3 above and below and one to the right \
+and one to the left. So including the 
+middle cell there are 2^9=512 states for these cells. Can you tell \
+how many CA rules we then have?
+The most famous of these is called Game of Life, \
+http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life 
+and http://mathworld.wolfram.com/GameofLife.html *)
+(* This example is for rule 746. I call it circular growth. The birth \
+rule (white->black) is exactly 3 living neighbours.
+Survival (black\[Rule]black) if no more than 4 neighbours are alive. \
+Death ( black\[Rule]white) if there are 5-8 living neighbours
+in the previous generation. Game of Life is rule 224. Same birth \
+condition as for Circular Growth but death happends due to lonliness
+(0 or 1 living cell next to the cell) or over population (4-8 living \
+cells around the middle cell). As in our world! 
+If you write 746 and 224 in base 2 I hope you can figure out how this \
+rule numbers are obtained.*)
+CircularGrowth = {746, {2, {{2, 2, 2}, {2, 1, 2}, {2, 2, 2}}}, {1, 1}};
+(* This list above specifies the 2D CA*)
+seed = Table[0, {200}, {200}];
+seed[[98, 100]] = 1;
+seed[[99, 100]] = 1;
+seed[[100, 100]] = 1;
+seed[[101, 100]] = 1;
+seed[[102, 100]] = 1;
+seed[[103, 100]] = 1;
+seed[[104, 100]] = 1;
+
+(* seed is the input matrix. Here we start with a "worm", or better \
+seed, with 5 cells but the next lowest is dead (ill) to begin with.
+200 iterations. In fact something shocking happends after 3000 \
+iterations for this seed. To see it you have to have a big matrix and
+it takens around 25 minutes one my machine. For five healthy cells in \
+a row this effect has not been seen. It seems like
+radius of ball is =C * (number of iterations). Can you estimate C?*)
+ArrayPlot[CellularAutomaton[CircularGrowth, seed, {{{200}}}]]
+(* If you want to see Circular Growth - The Movie you use instead: 
+Animate[ArrayPlot[CellularAutomaton[CircularGrowth,seed,{{{n}}}],Mesh\
+\[Rule]False],{n,0,200,1},AnimationRate \[Rule]10, AnimationRunning\
+\[Rule]False]*)

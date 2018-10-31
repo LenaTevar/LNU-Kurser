@@ -1,0 +1,29 @@
+(* This example is for rule 30 *)
+Clear["`*"]
+(* This is one of the 256 cellular automata which is one dimensional, \
+has two states (black or white) and next state
+in a cell depends only on previous state of itself and the 2 \
+nearlying neighbours. Think of a long chain of houses.
+Each person in there can be happy or sad. The state next day depends \
+on your mood the day before and on the mood
+of the people next-doors. Ther are 2^8=256 different rules for what \
+can happen. Most of them are boring but especially rule 30
+and 110 are very interesting. See \
+http://en.wikipedia.org/wiki/Cellular_automaton *)
+dim = 40;
+dim2 = dim/2;
+seed = Table[0, {dim}];
+seed[[dim2]] = 1;
+(* seed is the start state. We have 1000 cells in a row and all are \
+white (0) execpt for the one in the middle (1) .
+The array plot below shows the evolution for 500 generations. Time is \
+downwards.*)
+ArrayPlot[CellularAutomaton[102, seed, 15], Mesh -> true]
+(* This command  will give the same plot : \
+ArrayPlot[CellularAutomaton[30,{{1},0},1000]]. CellularAutomaton is \
+thus a command in Mathematica *)
+(* If you want to see Rule 30 - The Movie you use instead: \
+Animate[ArrayPlot[CellularAutomaton[30,{{1},0},n]],{n,1,100,1},\
+AnimationRunning\[Rule]False].
+One black cell to start with also here. One iteration is already done \
+so we have a black T upside down. 100 iterations with step 1.*)
