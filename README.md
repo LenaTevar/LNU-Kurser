@@ -3,7 +3,7 @@
 | Year 1        | | | 
 | ------------- |-------------|----|
 |sp1|[1MA441](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Basic Mathematics :anger:|[1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) English|
-|sp2|[1DV510]() Technical Information and Comm.|[1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) Problem Solving and Programming:heart:|
+|sp2|[1DV510](Kurser\1DV510) Technical Information and Comm.|[1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) Problem Solving and Programming:heart:|
 |sp3|[1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) Software Technology|[1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) Programming and Data Structures:heart:|
 |sp4|[1DV508](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Project course in Computer Science|[1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) Discrete Mathematics
 
