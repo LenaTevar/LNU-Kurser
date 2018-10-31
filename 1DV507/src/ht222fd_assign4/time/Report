@@ -1,0 +1,17 @@
+Report
+
+VG exercises not done because health "problems" (baby about to born!).
+
+In order to test Stringbuilder append and String concatenation I created
+a short string with only one character and a for loop that creates a long
+string depending of the value of the variable LONG_STRING_LENGTH (in this
+case I used a string with 80 characters).
+
+To check how many strings were added, I creates a variable using
+System.currentTimeMillis()+1000. That would give me the one second time lapse
+to do the concatenation using a while loop.
+Inside this while loop, I tested the string concatenation and the stringbuilder append.
+
+The result was indisputable. StringBuilder made it greatly better than string.
+The difference when adding short strings was around 30,000,000 extra characters
+ and 170,000,000 extra characters with long strings in my computer.
