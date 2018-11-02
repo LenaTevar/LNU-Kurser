@@ -13,7 +13,7 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 
 |Year 2	| | | 
 | ------------- |-------------|----|
-|sp1|[1DV607](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Object Oriented Analysis and Design|[1DT301](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)  Computer Technology 1:anger:|
+|sp1|[1DV607](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Object Oriented Analysis and Design|[1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  Computer Technology 1:anger:|
 |sp2|	[2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) Software Testing :heart:	|[1DV512](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Operating Systems|
 |sp3|	[2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Software Engineering - Design	|[1DV701]() Computer Networks - an introduction:anger::anger:|
 |sp4|	|[1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) Language and Logic:anger:|
