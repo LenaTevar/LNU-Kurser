@@ -6,17 +6,17 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 
 | Year 1        | | | 
 | ------------- |-------------|----|
-|sp1|[1MA441](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Basic Mathematics :anger:|[1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English|
-|sp2|[1DV510](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV510) :heavy_check_mark: Technical Information and Comm.|[1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark: Problem Solving and Programming:heart:|
-|sp3|[1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology|[1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: Programming and Data Structures:heart:|
+|sp1|[1MA441](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) :anger:Basic Mathematics |[1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English|
+|sp2|[1DV510](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV510) :heavy_check_mark: Technical Information and Comm.|[1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming|
+|sp3|[1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology|[1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures|
 |sp4|[1DV508](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Project course in Computer Science|[1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 
 |Year 2	| | | 
 | ------------- |-------------|----|
-|sp1|[1DV607](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) :arrows_counterclockwise: Object Oriented Analysis and Design|[1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :arrows_counterclockwise: Computer Technology 1:anger:|
-|sp2|	[2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing :heart:	|[1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :arrows_counterclockwise: Operating Systems|
-|sp3|	[2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Software Engineering - Design	|[1DV701]() Computer Networks - an introduction:anger::anger:|
-|sp4|	|[1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark: Language and Logic:anger:|
+|sp1|[1DV607](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) :arrows_counterclockwise: Object Oriented Analysis and Design|[1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :arrows_counterclockwise::anger: Computer Technology 1|
+|sp2|	[2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing 	|[1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :arrows_counterclockwise: Operating Systems|
+|sp3|	[2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Software Engineering - Design	|[1DV701]() :anger::anger:Computer Networks - an introduction|
+|sp4|	|[1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic|
 
 
 |Year 3|	 | | 
