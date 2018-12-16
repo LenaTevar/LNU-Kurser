@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Catalogue>
+    <CatalogueList>
+        <memberId>1</memberId>
+        <firstName>Ana</firstName>
+        <surname>Amari</surname>
+        <personId>1111</personId>
+        <phone>2222</phone>
+        <memberBoats>
+            <Type>KATAMARAN</Type>
+            <Length>12.0</Length>
+            <Name>Kontiki</Name>
+            <mmsi>sv111</mmsi>
+        </memberBoats>
+    </CatalogueList>
+    <CatalogueList>
+        <memberId>2</memberId>
+        <firstName>Olivia</firstName>
+        <surname>Palomares</surname>
+        <personId>2222</personId>
+        <phone>3333</phone>
+        <memberBoats>
+            <Type>SAILBOAT</Type>
+            <Length>14.5</Length>
+            <Name>Cloud</Name>
+            <mmsi>asdas</mmsi>
+        </memberBoats>
+    </CatalogueList>
+    <CatalogueList>
+        <memberId>4</memberId>
+        <firstName>Jesse</firstName>
+        <surname>McCree</surname>
+        <personId>34543</personId>
+        <phone>23456-23</phone>
+    </CatalogueList>
+</Catalogue>

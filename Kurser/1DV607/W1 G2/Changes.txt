@@ -1,0 +1,6 @@
+Changes after peer-review
+
+Layout: Changes in definition of relations ClassName-VerbPhrase-ClassName format (Chapter 9.14) Multiplicity goes behind the lines. 
+More attributes that may be useful for a clear understanding (but without overdoing. Chapter 9.16). 
+
+Added reservation, affected by the boat and the berth, will relate to the member fee. 
