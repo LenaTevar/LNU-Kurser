@@ -19,7 +19,7 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
 
 # Information about General program
-Just for you to know. In order to get the general CS diploma you need: 
+You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
 * 90 credits on computer science (the dv courses)
   * From those 90 credits, at least 2 courses from "2dv~" for instance, Software Engineering or Software testing. 
   * The Final project on CS (That is a "2dv~" course, btw)
