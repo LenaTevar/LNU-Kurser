@@ -1,6 +1,15 @@
 # LNU-Kurser
-All the courses I finished at LinneUniversitetet faculty of Computer Science, general program. 
+Courses from LinneUniversitetet faculty of Computer Science. 
 
+# Open to Pull Requests :exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation:
+Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
+- Fork this repo
+- Clone to you pc
+- Add changes
+- Commit and push
+- Pull Request
+
+# Overview
 Please be careful, use this to get ideas but don't copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
 
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
@@ -8,22 +17,15 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
 * [1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology
 * [1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures
-* [1DV508](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Project course in Computer Science
+* [1DV508](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Project course in Computer Science
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DV607](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV607) :heavy_check_mark:  Object Oriented Analysis and Design
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
 * [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing 	
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
-* [2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄Software Engineering - Design	
+* [2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Software Engineering - Design	
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
-# Open to Pull Requests
-Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
-- Fork this repo
-- Clone to you pc
-- Add changes
-- Commit and push
-- Pull Request
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
