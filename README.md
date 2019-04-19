@@ -19,6 +19,11 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
 # Open to Pull Requests
 Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
+- Fork this repo
+- Clone to you pc
+- Add changes
+- Commit and push
+- Pull Request
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
