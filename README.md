@@ -17,7 +17,7 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
 * [1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology
 * [1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures
-* [1DV508](https://github.com/LenaTevar/SmallAngularShop) Project course in Computer Science
+* [1DV508](https://github.com/LenaTevar/SmallAngularShop):heavy_check_mark: Project course in Computer Science
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DV607](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV607) :heavy_check_mark:  Object Oriented Analysis and Design
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
