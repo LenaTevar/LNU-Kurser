@@ -23,7 +23,7 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
 * [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing 	
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
-* [2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Software Engineering - Design	
+* [2DV603](https://github.com/meysam-mfard/Thesis-Manager) Software Engineering - Design	
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
 
