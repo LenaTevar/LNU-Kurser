@@ -26,8 +26,8 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [2DV603](https://github.com/meysam-mfard/Thesis-Manager):heavy_check_mark: Software Engineering - Design	
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
-* [1DV437]() Introduction to Game Programming (Unity)
-* [1ME005]() Video Games - an Introduction
+* [1DV437](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Introduction to Game Programming (Unity)
+* [1ME005](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Video Games - an Introduction
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
