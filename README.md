@@ -12,21 +12,28 @@ Did  you use this repo to study? Then add some extra files of your own! Keep thi
 # Overview
 Please be careful, use this to get ideas but don't copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
 
-* [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
+
+## DV courses: 90hp 
+* [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
+* [2DV603](https://github.com/meysam-mfard/Thesis-Manager):heavy_check_mark: Software Engineering - Design	(15hp)
+* [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing
 * [1DV510](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV510) :heavy_check_mark: Technical Information and Comm.
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
 * [1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology
 * [1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures
 * [1DV508](https://gitlab.com/LenaTevar/508project):heavy_check_mark: Project course in Computer Science
-* [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DV607](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV607) :heavy_check_mark:  Object Oriented Analysis and Design
-* [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
-* [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing 	
+* Thesis
+
+## Free elective: 60hp
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
-* [2DV603](https://github.com/meysam-mfard/Thesis-Manager):heavy_check_mark: Software Engineering - Design	
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
-* [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
 * [1DV437](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Introduction to Game Programming (Unity)
+
+## Free elective non dv: 30hp
+* [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
+* [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
+* [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
 * [1ME005](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Video Games - an Introduction
 
 # Information about General program
