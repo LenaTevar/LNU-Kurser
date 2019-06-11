@@ -17,15 +17,17 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
 * [1DV600](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV600) :heavy_check_mark: Software Technology
 * [1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures
-* [1DV508](https://github.com/LenaTevar/SmallAngularShop):heavy_check_mark: Project course in Computer Science
+* [1DV508](https://gitlab.com/LenaTevar/508project):heavy_check_mark: Project course in Computer Science
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DV607](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV607) :heavy_check_mark:  Object Oriented Analysis and Design
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark::anger: Computer Technology 1
 * [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing 	
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
-* [2DV603](https://github.com/meysam-mfard/Thesis-Manager) Software Engineering - Design	
+* [2DV603](https://github.com/meysam-mfard/Thesis-Manager):heavy_check_mark: Software Engineering - Design	
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
+* [1DV437]() Introduction to Game Programming (Unity)
+* [1ME005]() Video Games - an Introduction
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
