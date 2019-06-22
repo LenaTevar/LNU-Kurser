@@ -15,7 +15,7 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 
 ## DV courses: 90hp 
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
-* [2DV603](https://github.com/meysam-mfard/Thesis-Manager):heavy_check_mark: Software Engineering - Design	(15hp)
+* [2DV603](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/2dv603/2dv603-README.md):heavy_check_mark: Software Engineering - Design	(15hp)
 * [2DV610](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV610) :heavy_check_mark: Software Testing
 * [1DV510](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV510) :heavy_check_mark: Technical Information and Comm.
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
