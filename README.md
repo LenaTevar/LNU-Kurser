@@ -3,14 +3,9 @@ Courses from LinneUniversitetet faculty of Computer Science.
 
 # Open to Pull Requests :exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation:
 Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
-- Fork this repo
-- Clone to you pc
-- Add changes
-- Commit and push
-- Pull Request
 
 # Overview
-Please be careful, use this to get ideas but don't copy-paste. Teachers and Assistants check github and actually... I'm not that good student anyways. But better something than nothing, I guess. 
+Please be careful to **not** copy-paste, use this repo as reference,  
 
 
 ## DV courses: 90hp 
@@ -29,11 +24,11 @@ Please be careful, use this to get ideas but don't copy-paste. Teachers and Assi
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [1DV437](https://github.com/LenaTevar/Magazon) 🔄 Introduction to Game Programming (Unity)
-* [2dv605](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Parallel Computing
-* [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Web 1
-* [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) Web 2
+* [2dv605](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Parallel Computing
+* [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 1
+* [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 2
 * [...](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 
-* [...]()
+* [...](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)
 ## Free elective non dv: 30hp
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
