@@ -1,2 +1,2 @@
-# Not Finished
-This course is not finished, maybe never will be, maybe I'm doing it right now. You will never now, or maybe you do if you wait for it. 
+# Not Finished - Not Started
+This course has not been started or finished. If you have questions, please ask in Issues. 
