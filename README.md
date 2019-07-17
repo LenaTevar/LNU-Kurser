@@ -33,7 +33,7 @@ Please be careful to **not** copy-paste, use this repo as reference,
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark: Computer Technology 1
-* [1ME005](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Video Games - an Introduction
+* [1ME005](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1ME005) 🔄 Video Games - an Introduction
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
