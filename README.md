@@ -27,9 +27,9 @@ Did I help you and want to give back? Buy me a coffee!!!
 ## Free elective: 60hp
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
-* [1DV437](https://github.com/LenaTevar/Magazon) 🔄 Introduction to Game Programming (Unity)
-* [2dv605](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Parallel Computing
-* [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 1
+* [1DV437](https://github.com/LenaTevar/Magazon):heavy_check_mark: Introduction to Game Programming (Unity)
+* [2dv605](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 HT19 Parallel Computing
+* [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 HT19 Web 1
 * [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 2
 * [...](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 
 * [...](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)
@@ -37,7 +37,7 @@ Did I help you and want to give back? Buy me a coffee!!!
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark: Computer Technology 1
-* [1ME005](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1ME005) 🔄 Video Games - an Introduction
+* [1ME005](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1ME005) :heavy_check_mark: Video Games - an Introduction
 
 # Information about General program
 You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
