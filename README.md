@@ -1,16 +1,13 @@
 # LNU-Kurser
 Courses from LinneUniversitetet faculty of Computer Science. 
-
-# Open to Pull Requests :exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation:
-Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
-If you don't know/want to make a PR, send me your old exercises to ht222fd@student.lnu.se or find me in Slack (you know which). 
-
-# Overview
 Please be careful to **not** copy-paste, use this repo as reference.   
 
 Did I help you and want to give back? Buy me a coffee!!! 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8118YI)
+# Open to Pull Requests :exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation:
+Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
+If you don't know/want to make a PR, send me your old exercises to ht222fd@student.lnu.se or find me in Slack (you know which). 
 
 ## DV courses: 90hp 
 * [2DV513](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2dv513%20-%20DB)  ✔️ ❤️Database Theory
