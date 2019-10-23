@@ -25,7 +25,7 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [1DV437](https://github.com/LenaTevar/Magazon):heavy_check_mark: Introduction to Game Programming (Unity)
-* [2dv605](https://github.com/LenaTevar/2DV605) 🔄 HT19 Parallel Computing
+* [2dv605](https://github.com/LenaTevar/2DV605) ✔️ ❤️ HT19 Parallel Computing
 * [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 HT19 Web 1
 * [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 2
 * [HT19 P2](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 
