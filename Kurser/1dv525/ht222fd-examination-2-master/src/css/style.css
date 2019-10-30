@@ -1,0 +1,123 @@
+/*
+DFD0B4
+D5B496
+CC9379
+C36D5F 
+BA474A
+B1304A
+A71C50
+*/
+* {
+    font-family: sans-serif;
+}
+body {
+    background-color: #B1304A;
+    
+}
+main {
+    color: #DFD0B4;
+    background-color:#C36D5F;
+    max-width: 800px;
+    min-height: 100%;
+    
+    margin-top: 0;
+    margin-bottom: 30px;
+    
+    padding: 15px;
+    overflow: auto;
+    
+    /* centering the block  */
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+form, p {
+    
+    background-color: #4B3B40;
+    color:  #EEE5E9;
+    padding: 15px;
+    margin: 30px auto;
+    border: none;
+    
+    
+}
+input[type=text], textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical 
+    
+}
+
+input[type=button] {
+    background-color: #B1304A; 
+    border: 2px solid #C36D5F;
+    color: #DFD0B4;
+    padding: 16px 32px;
+
+    text-decoration: none;
+    display: block ;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+input[type=button]:hover {
+    background-color: #DFD0B4;
+    border: 2px solid #C36D5F;
+    color: #B1304A;
+}
+button {
+    background-color: #B1304A; 
+    border: 2px solid #C36D5F;
+    color: #DFD0B4;
+    padding: 16px 32px;
+
+    text-decoration: none;
+    display: block ;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #DFD0B4;
+    border: 2px solid #C36D5F;
+    color: #B1304A;
+}
+button:disabled {
+    background-color: #4B3B40;
+    border: 2px solid #C36D5F;
+    color: #B1304A;
+}
+
+
+label {
+    display: inline;
+    margin: 4px 2px;
+}
+
+
+h1 {
+    color: #DFD0B4;     
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #4B3B40;
+}
