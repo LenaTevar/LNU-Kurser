@@ -26,9 +26,9 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark::anger: Language and Logic	
 * [1DV437](https://github.com/LenaTevar/Magazon):heavy_check_mark: Introduction to Game Programming (Unity)
 * [2dv605](https://github.com/LenaTevar/2DV605) ✔️ ❤️ HT19 Parallel Computing
-* [1dv525](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 HT19 Web 1
-* [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) HT19 Web 2
-* [HT19 P2](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 
+* [1dv525](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1dv525) ✔️ HT19 Web 1
+* [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄HT19 Web 2
+* [HT19 P2](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Media Tech
 * [vt20 P1](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)
 ## Free elective non dv: 30hp
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
