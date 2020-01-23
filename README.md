@@ -19,7 +19,7 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1DV507](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV507) :heavy_check_mark: :heart:Programming and Data Structures
 * [1DV508](https://gitlab.com/LenaTevar/508project):heavy_check_mark: Project course in Computer Science
 * [1DV607](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV607) :heavy_check_mark:  Object Oriented Analysis and Design
-* Thesis (15hp)
+* [2dv50E](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Bachelor Thesis in Computer Science (15hp)
 
 ## Free elective: 60hp
 * [1DV512](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV512%20OS) :heavy_check_mark:  Operating Systems
@@ -29,7 +29,7 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1dv525](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1dv525) ✔️ HT19 Web 1
 * [1dv526](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄HT19 Web 2
 * [HT19 P2](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄 Maths
-* [vt20 P1](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)
+* [2dv604](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md) 🔄  Software Architectures
 ## Free elective non dv: 30hp
 * [1EN114](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/1EN114.md) :heavy_check_mark: English
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
