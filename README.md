@@ -1,3 +1,4 @@
+
 # LNU-Kurser
 Courses from LinneUniversitetet faculty of Computer Science. 
 Please be careful to **not** copy-paste, use this repo as reference.   
@@ -41,19 +42,40 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1ME005](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1ME005) :heavy_check_mark: Video Games - an Introduction
 * [1DV517](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV517) :heavy_check_mark: Language and Logic	
 
-# Information about General program
-You don't need to follow designed programs to get your diploma. Talk with a student counsellor to get more information, but in general. In order to get the general CS diploma you need: 
-* 90 credits on computer science (the dv courses)
-  * From those 90 credits, at least 2 courses from "2dv~" for instance, Software Engineering or Software testing. 
-  * The Final project on CS 
-* 90 credits free elective
-  * You can do a maximun of 60 credits on computer science courses
-  * at least 30 credits should NOT be from computer science
-  * If you do 90 credits on a single area (let's say maths) and their final project, you can get two diplomas. 
- If you want to have a Technical diploma you need
- * 90 credits on CS
-  * 2 courses advanced (2dv)
-  * Thesis
- * 45 credits on the tech faculty
- * 15 credits on math
- * 30 free credits
+# Check list for CS diploma
+## Bachelor in CS
+- [ ] 90 hp in DV
+- [ ] 90 hp free
+
+## Technical Bachelor in CS
+### 90 hp in DV
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [x] 15 - Thesis
+
+### 45 in the Tech Faculty (CT, DV,  Math, Physics...)
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5 - Tip: Basic Maths
+
+### 15 hp in Math
+- [ ] 7,5 - Tip: Discrete Maths
+- [ ] 7,5 - Tip: Linear Algebra
+
+### 30 hp free
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+- [ ] 7,5
+
