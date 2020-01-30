@@ -1,0 +1,83 @@
+#updateElement {
+    margin-bottom: 0px;
+}
+.badge{
+    color: white;
+}
+.toggleCollapse{
+    width: 100%;
+}
+.animated {
+	background: #92B901;
+	color: #ffffff;
+	position: relative;
+	border-radius: 5px;
+	animation: myanimation 0.5s 5;
+	animation-direction: alternate ;
+}
+
+@keyframes myanimation {
+    from {
+        left: -5px;
+    }
+    to {
+        left: 5px;
+    }
+    50%   {
+        background-color: #92B901;
+    }
+    50%  {
+        background-color: transparent;
+    }
+}
+
+.refresh {
+    border-radius: 5px;
+    animation: myRefreshAnimated 0.5s 5;
+	animation-direction: alternate ;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #92B901;
+    border-radius: 50%;
+    display: inline-block;
+    animation: myanimation 0.5s 5;
+  }
+
+
+
+.heart {
+    content: '&#9829';
+    animation: heartbeat2 1s infinite;
+  }
+.heart:before {
+    content: '\2665';
+    /*color: red;*/
+  }
+.heartdead {
+    content: '&#9829';
+    color: black; 
+}
+.heartdead:before {
+    content: '\2665';
+    /*color: red;*/
+  }
+
+
+@keyframes heartbeat2 {
+    0% { 
+        transform: scale( .75);
+    }
+    20% { 
+        transform: scale (1);
+    }
+    from {
+        color: rgb(185, 1, 1);
+    }
+    to {
+        color: transparent;
+    }
+}
+

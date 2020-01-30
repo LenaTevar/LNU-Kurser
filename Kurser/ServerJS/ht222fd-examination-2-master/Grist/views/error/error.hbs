@@ -1,0 +1,21 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="error-template">
+        <h1>Error {{error.statusCode}}</h1>
+        <h2>{{error.message}}</h2>
+
+        <div class="btn-group" role="group" aria-label="Testing">
+          <button class="btn btn-lg btn-info" type="button" data-toggle="collapse" data-target="#collapseExample"
+            aria-expanded="false" aria-controls="collapseExample">
+            Error Description
+          </button>
+          <a href="/" class="btn-lg btn btn-info"> Take Me Home </a>
+        </div>
+        <div class="collapse" id="collapseExample">
+          <div class="card card-body">{{error.stack}}</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

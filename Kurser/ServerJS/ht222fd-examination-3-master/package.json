@@ -1,0 +1,41 @@
+{
+  "name": "ht222fd-examination-3",
+  "version": "1.0.0",
+  "description": "Work in progress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:prod": "export NODE_ENV=production && node app.js",
+    "start:dev": "set NODE_ENV=development && nodemon --inspect ./app.js",
+    "lint": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1dv523/ht222fd-examination-3.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "ht222fd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1dv523/ht222fd-examination-3/issues"
+  },
+  "homepage": "https://github.com/1dv523/ht222fd-examination-3#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.0",
+    "express-session": "^1.17.0",
+    "http-errors": "^1.7.3",
+    "octonode": "^0.9.5",
+    "request": "^2.88.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "standard": "^14.3.1"
+  }
+}

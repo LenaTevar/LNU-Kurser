@@ -1,0 +1,55 @@
+{{#if data.issues}}
+<div class="d-flex flex-row flex-wrap justify-content-center card-columns">
+  {{#each data.issues}}
+
+  <div class="card p-2 " id="issue{{number}}" style="width: 18rem;">
+    <div class="card-header">
+      <span id="{{number}}"> {{number}} </span>
+      Issue
+      {{#if labels}}
+        {{#each labels}}
+        <span class="badge badge-pill" style="background-color:#{{color}}">{{name}}</span>
+        {{/each}}
+      {{/if}}
+    </div>
+    <div class="card-body">
+      <h5 class="card-title">{{title}}</h5>
+      <h6 class="card-subtitle mb-2 text-muted">By: {{user.login}}</h6>
+      <p class="card-text code">{{body}}</p>
+      <h6 class="card-subtitle mb-2 text-muted">Comments: <span id="counter{{number}}">{{comments}}</span></h6>
+      <a href="{{html_url}}" class="btn btn-outline-info">Go to Github</a>
+    </div>
+    {{#if comments}}
+
+    <a class="btn btn-primary toggleCollapse" id="buttonCollapse{{number}}" data-toggle="collapse" href="#cardCollapse{{number}}"
+      role="button" aria-expanded="false" aria-controls="multiCollapseExample1">
+      Toggle comments</a>
+
+    <div class="collapse multi-collapse" id="cardCollapse{{number}}">
+      <div class="card-body">
+        <ul class="list-group list-group-flush">
+          {{#each comments_content}}
+          <li class="list-group-item" id="{{id}}">
+            <h6 class="card-subtitle mb-2 text-muted">By: {{user.login}}</h6>
+            <h5 class="card-title">{{title}}</h5>
+            <p class="card-text code">{{body}}</p>
+            <h6 class="card-subtitle mb-2 text-muted">{{created_at}}</h6>
+          </li>
+
+          {{/each}}
+        </ul>
+      </div>
+    </div>
+    {{/if}}
+  </div>
+
+  {{/each}}
+</div>
+{{else}}
+<div class="alert alert-info" role="alert">
+  No issues available at the moment.
+</div>
+{{/if}}
+
+
+</div>

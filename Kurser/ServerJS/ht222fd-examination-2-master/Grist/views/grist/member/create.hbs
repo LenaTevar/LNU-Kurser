@@ -1,0 +1,23 @@
+<h1>
+  <span class="far fa-plus-square"></span> Create Gist
+</h1>
+{{>validation}}
+<form method="post" action="/mypage/{{data.action}}" id="gistForm" class="create">
+
+  <div class="form-group">
+    <label for="inputTitle">Title</label>
+    <input type="text" id="inputTitle" class="form-control" name="title" value="{{data.gist.title}}" placeholder="Title"
+      required="required" autofocus="autofocus" />
+
+    <label for="inputContent">Add your Gist here</label>
+    <textarea form="gistForm" class="form-control code" name="content" id="inputContent" cols="30" rows="10"
+      value="{{data.gist.content}}">{{data.gist.content}}</textarea>
+
+    <label for="inputTag">Add Tags, separate multiple tags with a comma</label>
+    <input type="text" id="inputTag" class="form-control" name="tags" value="{{data.gist.tags}}" placeholder="Tags"
+      autofocus="autofocus" />
+  </div>
+  <input type="hidden" name="_id" value="{{data.gist._id}}">
+  <input type="hidden" name="_csrf" value="{{_csrfToken}}">
+  <button type="submit" class="btn btn-lg btn-primary">Save</button>
+</form>

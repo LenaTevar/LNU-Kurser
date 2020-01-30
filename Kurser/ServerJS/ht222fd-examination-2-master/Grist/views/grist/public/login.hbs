@@ -1,0 +1,26 @@
+<div class="container login">
+    {{>validation}}
+    <form method="POST" action="/login" class="form-signin">
+        <div class="text-center mb-4">
+            <img class="mb-4" src="/images/pig.png" alt="" width="92" height="72">
+            <h1 class="h3 mb-3 font-weight-normal">Log in Grist!</h1>
+            <p>Log in Grist and begin sharing your gists!
+            </p>
+        </div>
+        <div class="form-label-group">
+            <input type="text" id="username" name="username" value="{{username}}" class="form-control"
+                placeholder="Username" required="required" autofocus="autofocus">
+            <label for="username">Username</label>
+        </div>
+
+        <div class="form-label-group">
+            <input type="password" id="password" name="password" value="{{password}}" class="form-control"
+                placeholder="Password" required="required">
+            <label for="password">Password</label>
+        </div>
+
+        <input type="hidden" name="_csrf" value="{{_csrfToken}}">
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+    </form>
+
+</div>

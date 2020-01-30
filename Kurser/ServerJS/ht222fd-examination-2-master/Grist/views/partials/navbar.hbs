@@ -1,0 +1,35 @@
+<!-- Fixed navbar -->
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="/">
+    <img src="/images/pig.png" width="40" height="30" alt="">
+    <span class="navbar-brand mb-0 h1">Grist</span>
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      {{#if authGuard}}
+      <li class="nav-item">
+        <a class="nav-link" href="/mypage">{{authGuard.username}}'s Page</a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="/mypage/create">create</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/logout">Logout</a>
+      </li>
+      {{else}}
+      <li class="nav-item">
+        <a class="nav-link" href="/login">Login</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/register">Register</a>
+      </li>
+      {{/if}}
+    </ul>
+  </div>
+</nav>

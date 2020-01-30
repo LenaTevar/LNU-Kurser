@@ -1,0 +1,31 @@
+<h3>Hello, {{authGuard.username}}</h3>
+<div class="btn-group" role="group" aria-label="Testing">
+
+    <a href="/laralailo" class="btn btn-warning">Test 404</a>
+    <a href="/throw" class="btn btn-warning">Test 500</a>
+
+</div>
+
+
+{{#if data.myGists.length}}
+<div class="d-flex flex-row flex-wrap justify-content-center">
+    {{#each data.myGists}}
+    <div class="card p-2" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">{{title}}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">By: {{author}}</h6>
+            <p class="card-text code">{{contentShort}}</p>
+            <h6 class="card-subtitle mb-2 text-muted">Tags: {{tags}}</h6>
+
+            <a href="/mypage/delete/{{id}}" class="btn btn-danger">DELETE</a>
+            <a href="/mypage/edit/{{id}}" class="btn btn-warning">UPDATE</a>
+        </div>
+    </div>
+
+    {{/each}}
+</div>
+{{else}}
+<div class="alert alert-info" role="alert">
+    No gists available at the moment.
+</div>
+{{/if}}

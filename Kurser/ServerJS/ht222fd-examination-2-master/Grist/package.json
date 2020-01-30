@@ -1,0 +1,42 @@
+{
+  "name": "grist",
+  "version": "1.1.0",
+  "description": "Gist repository",
+  "main": "app.js",
+  "scripts": {
+    "lint": "standard | snazzy",
+    "lint:fix": "standard --fix",
+    "start": "node app.js",
+    "devstart": "nodemon --inspect ./app.js"
+  },
+  "author": "Helena Tevar",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "csurf": "^1.10.0",
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.0",
+    "express-session": "^1.17.0",
+    "http-errors": "^1.7.3",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.12",
+    "morgan": "^1.9.1",
+    "node-gyp": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "*",
+    "snazzy": "*",
+    "standard": "*"
+  },
+  "standard": {
+    "env": {
+      "node": true,
+      "es6": true
+    }
+  },
+  "nodemonConfig": {
+    "ext": "js,json,hbs,html,css"
+  }
+}

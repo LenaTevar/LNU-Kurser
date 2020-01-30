@@ -1,0 +1,28 @@
+.card {
+	margin: 3px;	
+}
+.code {
+	background-color:#EEEEEE;
+	font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+	white-space: pre-line; /*Preserves /n as break line*/
+	padding: 5px;
+}
+.container.login {
+	margin-top: 70px;
+	width: 300px;
+}
+
+.list-group {
+	width: 200px;
+	float: left;
+	max-width: 1000px;
+}
+.mymain {
+	margin-top: 70px;
+	margin-left: 5px;
+}
+.create {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
