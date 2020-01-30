@@ -49,24 +49,10 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 
 ## Technical Bachelor in CS
 ### 90 hp in DV
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
+
 - [x] 15 - Thesis
 
 ### 45 in the Tech Faculty (CT, DV,  Math, Physics...)
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
 - [ ] 7,5 - Tip: Basic Maths
 
 ### 15 hp in Math
@@ -74,8 +60,4 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 - [ ] 7,5 - Tip: Linear Algebra
 
 ### 30 hp free
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
-- [ ] 7,5
 
