@@ -30,7 +30,7 @@ If you don't know/want to make a PR, send me your old exercises to ht222fd@stude
 * [1dv525](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1dv525) ✔️ HT19 Web 1
 * [1dv526](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/ServerJS) ✔️ HT19 Web 2
 * [1DT301](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DT301)  :heavy_check_mark: Computer Technology 
-* [2dv604](https://github.com/LenaTevar/LNU-Kurser/blob/master/Kurser/NotFinished.md)🔄  Software Architectures
+* [2dv604](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/2DV604):heavy_check_mark: Software Architectures
 
 ## Math: 15hp
 * [1MA462](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1MA462) :heavy_check_mark: Discrete Mathematics
