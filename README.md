@@ -2,13 +2,7 @@
 # LNU-Kurser
 Courses from LinneUniversitetet faculty of Computer Science. 
 Please be careful to **not** copy-paste, use this repo as reference.   
-
-Did I help you and want to give back? Buy me a coffee!!! 
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L8118YI)
-# Open to Pull Requests :exclamation::grey_exclamation::exclamation::grey_exclamation::exclamation::grey_exclamation:
-Did  you use this repo to study? Then add some extra files of your own! Keep this repo updated!
-If you don't know/want to make a PR, send me your old exercises to ht222fd@student.lnu.se or find me in Slack (you know which). 
+Accepting PR adding more assigments!! Clone the repository, add your assigments, Pull your changes and make a pull request!
 
 * [1DV510](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV510) :heavy_check_mark: Technical Information and Comm.
 * [1DV506](https://github.com/LenaTevar/LNU-Kurser/tree/master/Kurser/1DV506) :heavy_check_mark::heart: Problem Solving and Programming
