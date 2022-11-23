@@ -31,7 +31,7 @@
     "http-errors": "^1.7.3",
     "octonode": "^0.9.5",
     "request": "^2.88.0",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "morgan": "^1.9.1",
